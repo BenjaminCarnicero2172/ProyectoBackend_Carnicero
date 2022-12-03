@@ -18,8 +18,8 @@ class Usuario {
         return (this.mascotas).length
     };
 
-    addBook(Libro, autor) {
-        (this.libros).push({nombre: Libro, autor: autor});
+    addBook(libro, autor) {
+        (this.libros).push({nombre: libro, autor: autor});
     };
 
     getBookNames() {
