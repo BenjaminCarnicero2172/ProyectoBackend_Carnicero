@@ -1,0 +1,41 @@
+[
+	{
+		"title": "Hamburguesa",
+		"price": 1200,
+		"thumbnail": "https://www.clarin.com/img/2022/05/27/la-hamburguesa-mucho-mas-que___0HXb0UR0v_2000x1500__1.jpg",
+		"id": 1
+	},
+	{
+		"title": "Pizza",
+		"price": 1740,
+		"thumbnail": "https://www.telam.com.ar/thumbs/bluesteel/advf/imagenes/2022/04/6248b38cc6e0d_1200.jpg",
+		"id": 2
+	},
+	{
+		"title": "Empanada",
+		"price": 150,
+		"thumbnail": "https://assets.unileversolutions.com/recipes-v2/239857.jpg",
+		"id": 3
+	}
+]
+
+
+
+
+[
+    {
+        "tittle": 'Hamburguesa',
+        price: 1200,
+        id: 1
+    },
+    {
+        tittle: 'Pizza',
+        price: 1740,
+        id: 2
+    },
+    {
+        tittle: 'Empanada',
+        price: 150,
+        id: 3
+    }
+]
